@@ -1,6 +1,6 @@
 const DEFAULTS = {
-  titulo: "Este Detalle es Para Tí MI Biker",
-  mensaje: "Hay personas que llegan y, sin darse cuenta, hacen que muchos de tus días sean mejores. Así eres tú para mí.\n\nGracias por cada momento compartido, por las risas y por estar ahí incluso en lo simple. Quiero que sepas cuánto vales y cuánto significas para mí.\n\nQue esta moto te recuerde, hoy y siempre, lo especial que eres.",
+  titulo: "Este Detalle es Para Tí MANUEL",
+  mensaje: "Hoy es el Día de Hot Wheels y no podía dejarlo pasar sin ti. 🚗❤️\n\nEres lo más especial que tengo. Verte feliz me hace la persona más dichosa. Te regalo este detalle porque mereces todo lo bueno, y más.\n\nTú eres mi favorito, mi todo. Te quiero con todo mi corazón.\n\nFeliz día, mi vida. ❤️",
   frases: [
     "🏍️ Contigo la carretera es mejor",
     "🏎️ Acelerando hacia lo que viene",
