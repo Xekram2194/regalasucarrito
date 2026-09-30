@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="theme-color" content="#000000">
+<title>🏍️ Moto & Carro Hot Wheels 🚗</title>
+<meta name="description" content="Una galaxia azul donde una moto de partículas se transforma en un carro y vuelve a moto, con frases para alguien especial.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏍️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div id="start-screen">
+  <div class="pulse-text">🏍️ Toca Aquí-Mi Biker 🏍️</div>
+  <img class="start-heart" src="https://raw.githubusercontent.com/Rafael-codex/Imagnes-de-hot-wells/main/start.png" alt="Inicio">
+</div>
+
+<div id="top-title"></div>
+
+<button id="love-letter-btn" aria-label="Leer mensaje">📩</button>
+
+<div id="love-letter-overlay">
+  <div id="love-letter-card">
+    <button id="love-letter-close" aria-label="Cerrar mensaje">✕</button>
+    <h2>Para ti 💙</h2>
+    <div id="love-letter-body"></div>
+  </div>
+</div>
+
+<canvas id="c"></canvas>
+
+<audio id="audio" loop></audio>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.148.0/build/three.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
